@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sanrakshan_server.dir/src/main.cpp.o -o sanrakshan_server 
